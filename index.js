@@ -16,3 +16,6 @@ var params = {
    if (err) console.log(err, err.stack); // an error occurred
    else     console.log(data);           // successful response
  });
+
+ // run nodemon index.js
+ // this is a image recognition tool called rekognition by amazon
